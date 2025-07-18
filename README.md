@@ -65,10 +65,10 @@ Power Query'de veri temizliği ve dönüşümü yapıldı.
 ![Ozet](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Ozet%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUOW3EHHQ7K4U62FRWO2D2B4HA)
 
  3- Musteri Perspektifi:
-![Musteri Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Musteri%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUOX3FVQGGXEQAHNWCW2D2B4KA)
+![Musteri Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Musteri%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUOHVVZN4CLLLF5K4I42D2CBZQ)
 
 4- Kategori Perspektifi:
-![Kategori Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Kategori%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUOXRZQ32BAC7W3RC5I2D2B4MA)   
+![Kategori Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Kategori%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUPDKTTW5GYWB3EK7FU2D2CBMA)   
 
 
 ### Analiz Sonuclari
