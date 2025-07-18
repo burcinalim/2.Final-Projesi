@@ -53,22 +53,22 @@ Power Query'de veri temizliği ve dönüşümü yapıldı.
 
 
 ### Veri Modelleme
-![Model](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Model.png?token=GHSAT0AAAAAADFOVYUODPLYB5LKEGILB2IQ2D2B2OA)
+![Model](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Model.png?token=GHSAT0AAAAAADFOVYUPMZ23FVFGTNPXIBWG2D2DCDQ)
 
 
 ### Görselleştirme
 
  1- Giris Sayfasi:
- ![Giris](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Giris%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUOF5OWUZN5ZZMDI4TG2D2CHHA)
+ ![Giris](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Giris%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUPJS3QUW5CU47LL3H22D2DA3A)
 
  2- Ozet Sayfasi:
-![Ozet](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Ozet%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUPQ2OEWOMW26FZKP2S2D2CH6A)
+![Ozet](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Ozet%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUOLKUYAFIXMV2EVGH22D2DBEA)
 
  3- Musteri Perspektifi:
-![Musteri Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Musteri%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUOHVVZN4CLLLF5K4I42D2CBZQ)
+![Musteri Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Musteri%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUPK7OUCKEYBOC5F4BS2D2DBBA)
 
 4- Kategori Perspektifi:
-![Kategori Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Kategori%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUPDKTTW5GYWB3EK7FU2D2CBMA)   
+![Kategori Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Kategori%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUPBWO762FSV7WAW7J42D2DA6Q)   
 
 
 ### Analiz Sonuclari
