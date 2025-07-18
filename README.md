@@ -53,22 +53,22 @@ Power Query'de veri temizliği ve dönüşümü yapıldı.
 
 
 ### Veri Modelleme
-![Model](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Model.png?token=GHSAT0AAAAAADFOVYUPMZ23FVFGTNPXIBWG2D2DCDQ)
+![Model](Model.png)
 
 
 ### Görselleştirme
 
  1- Giris Sayfasi:
- ![Giris](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Giris%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUPJS3QUW5CU47LL3H22D2DA3A)
+ ![Giris](Screenshots/Giris%20Sayfasi.png)
 
  2- Ozet Sayfasi:
-![Ozet](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Ozet%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUOLKUYAFIXMV2EVGH22D2DBEA)
+![Ozet](Screenshots/Ozet%20Sayfasi.png)
 
  3- Musteri Perspektifi:
-![Musteri Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Musteri%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUPK7OUCKEYBOC5F4BS2D2DBBA)
+![Musteri Perspektifi](Screenshots/Musteri%20Perspektifi.png)
 
 4- Kategori Perspektifi:
-![Kategori Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Kategori%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUPBWO762FSV7WAW7J42D2DA6Q)   
+![Kategori Perspektifi](Screenshots/Kategori%20Perspektifi.png)   
 
 
 ### Analiz Sonuclari
