@@ -59,10 +59,10 @@ Power Query'de veri temizliği ve dönüşümü yapıldı.
 ### Görselleştirme
 
  1- Giris Sayfasi:
- ![Giris](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Giris%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUOEX55XJOTAM5XJD4O2D2B33A)
+ ![Giris](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Giris%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUOF5OWUZN5ZZMDI4TG2D2CHHA)
 
  2- Ozet Sayfasi:
-![Ozet](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Ozet%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUOW3EHHQ7K4U62FRWO2D2B4HA)
+![Ozet](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Ozet%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUPQ2OEWOMW26FZKP2S2D2CH6A)
 
  3- Musteri Perspektifi:
 ![Musteri Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Musteri%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUOHVVZN4CLLLF5K4I42D2CBZQ)
