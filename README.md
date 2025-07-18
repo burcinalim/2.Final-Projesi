@@ -32,8 +32,6 @@ Bu rapor 4 sayfadan olusmaktadir:
 4- Toplam Cironun kategorilere gore dagilimi (ayria sehir ve yas grubu kriterlerine gore dagilimi).
 
 
-
-
 ### Veri Kaynağı
 Bu analiz için kullanılan veri setleri “Data Files” yazan dosya icindedir.
 
@@ -55,22 +53,22 @@ Power Query'de veri temizliği ve dönüşümü yapıldı.
 
 
 ### Veri Modelleme
-![Model](https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/Model%20View.png?raw=true)
+![Model]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/Model%20View.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Model.png?raw=true))
 
 
 ### Görselleştirme
 
  1- Giris Sayfasi:
- ![Summary Page](https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/1-Summary%20Page.png?raw=true)
+ ![Giris]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/1-Summary%20Page.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Screenshots/Giris%20Sayfasi.png))
 
  2- Ozet Sayfasi:
-![Overview Page](https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/2-Overview%20Page.png?raw=true)
+![Ozet]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/2-Overview%20Page.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Screenshots/Ozet%20Sayfasi.png))
 
  3- Musteri Perspektifi:
-![Details Page](https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/3-Details%20Page.png?raw=true)
+![Musteri Perspektifi]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/3-Details%20Page.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Screenshots/Musteri%20Perspektifi.png?raw=true))
 
 4- Kategori Perspektifi:
-![Details Page](https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/3-Details%20Page.png?raw=true)   
+![Kategori Perspektifi]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/3-Details%20Page.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Screenshots/Kategori%20Perspektifi.png?raw=true))   
 
 
 ### Analiz Sonuclari
