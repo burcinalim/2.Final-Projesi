@@ -29,11 +29,11 @@ Bu rapor 4 sayfadan olusmaktadir:
 
 3- Yas grubuna gore satislar.
 
-4- Toplam Cironun kategorilere gore dagilimi (ayria sehir ve yas grubu kriterlerine gore dagilimi).
+4- Toplam Cironun kategorilere gore dagilimi (Sehir ve yas grubu kriterlerine gore dagilimi).
 
 
 ### Veri Kaynağı
-Bu analiz için kullanılan veri setleri “Data Files” yazan dosya icindedir.
+Bu analiz için “Data Files” yazan dosyadaki veri setleri kullanilmistir.
 
 
 ### Veri Dönüşümü
