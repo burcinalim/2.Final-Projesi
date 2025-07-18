@@ -53,22 +53,22 @@ Power Query'de veri temizliği ve dönüşümü yapıldı.
 
 
 ### Veri Modelleme
-![Model]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/Model%20View.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Model.png?raw=true))
+![Model](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Model.png?token=GHSAT0AAAAAADFOVYUODPLYB5LKEGILB2IQ2D2B2OA)
 
 
 ### Görselleştirme
 
  1- Giris Sayfasi:
- ![Giris]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/1-Summary%20Page.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Screenshots/Giris%20Sayfasi.png))
+ ![Giris](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Giris%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUOEX55XJOTAM5XJD4O2D2B33A)
 
  2- Ozet Sayfasi:
-![Ozet]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/2-Overview%20Page.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Screenshots/Ozet%20Sayfasi.png))
+![Ozet](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Ozet%20Sayfasi.png?token=GHSAT0AAAAAADFOVYUOW3EHHQ7K4U62FRWO2D2B4HA)
 
  3- Musteri Perspektifi:
-![Musteri Perspektifi]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/3-Details%20Page.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Screenshots/Musteri%20Perspektifi.png?raw=true))
+![Musteri Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Musteri%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUOX3FVQGGXEQAHNWCW2D2B4KA)
 
 4- Kategori Perspektifi:
-![Kategori Perspektifi]([https://github.com/burcinalim/My-Data-Analysis-Portfolio/blob/main/01-Bank%20Loan%20Analysis%20Project/Screenshots/3-Details%20Page.png?raw=true](https://github.com/burcinalim/2.Final-Projesi/blob/main/Screenshots/Kategori%20Perspektifi.png?raw=true))   
+![Kategori Perspektifi](https://raw.githubusercontent.com/burcinalim/2.Final-Projesi/refs/heads/main/Screenshots/Kategori%20Perspektifi.png?token=GHSAT0AAAAAADFOVYUOXRZQ32BAC7W3RC5I2D2B4MA)   
 
 
 ### Analiz Sonuclari
